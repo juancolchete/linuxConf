@@ -1,2 +1,2 @@
-sudo mount --bind /neovimLab /neovimLab
-arch-chroot /neovimLab
+sudo mount --bind /nvimLab /nvimLab
+arch-chroot /nvimLab
