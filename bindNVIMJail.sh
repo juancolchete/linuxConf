@@ -1,2 +1,2 @@
-sudo mount --bind /devLab /neovimLab
+sudo mount --bind /neovimLab /neovimLab
 arch-chroot /neovimLab
